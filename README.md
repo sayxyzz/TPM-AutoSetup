@@ -1,4 +1,4 @@
-# Hydraapps
+# TPM-AutoSetup
 
 Script automático para instalar e configurar TPM no Linux.
 
